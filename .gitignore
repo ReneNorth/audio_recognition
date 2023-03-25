@@ -1,3 +1,9 @@
+# project-specific
+pytorch_model
+*.mp3
+*.wav
+.whisper.cpp/models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
